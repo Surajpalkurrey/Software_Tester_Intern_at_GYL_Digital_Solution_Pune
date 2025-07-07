@@ -24,26 +24,31 @@ Here are the Tools Used for Manual Testing in the proper descriptive form.
 
 Support cross-browser testing across different platform.
 Facility to record and playback functionality for test automation.
+
 2. **Bugzilla:** It is a web-based bug-tracking tool that is developed by Mozilla. It has a simple bug search that searches the complete text of the bug. It supports various OS like Mac, Windows, and Linux.
 
 Facility to list the software bug in different format.
 Bugzilla has advance searching facility.
-3. **Jira:** It is a manual testing tool that helps teams assign, track, report, and manage work and bring teams together. This tool is compatible with agile software projects also. It have an option to track and manage bugs and defects and prioritize and assign tasks.
+
+3. **Jira:** It is a manual testing tool that helps teams assign, track, report, and manage work and bring teams together. This tool is also compatible with agile software projects also. It have an option to track and manage bugs and defects and prioritize and assign tasks.
 
 Collaborate with team members.
 Easily generate reports and track progress.
-4. **LoadRunner**: It is one of the most widely used performance testing tools. The primary purpose of this tool is to categorize the most prevalent causes of performance problems. It simulates real-world user behavior and load and identifies bottlenecks and performance issues.
+
+4. **LoadRunner**: It is one of the most widely used performance testing tools. The primary purpose of this tool is to categorise the most prevalent causes of performance problems. It simulates real-world user behavior and load and identifies bottlenecks and performance issues.
 
 Scalable architecture for large-scale testing.
 Provides detailed reports and analysis.
-5. **Apache JMeter:** It is an open-source load testing tool for analyzing and measuring the performance of a variety of services. It has an easy-to-use user interface. It simulates various types of load (web, database, etc.). It have Highly configurable and extensible and integrates with various plugins for additional features.
+
+5. **Apache JMeter:** It is an open-source load testing tool for analyzing and measuring the performance of a variety of services. It has an easy-to-use user interface. It simulates various types of load (web, database, etc.). It have Highly configurable and extensible, and integrates with various plugins for additional features.
 
 Provides comprehensive performance reports and graphs.
+
 
 6. **Perfecto:** It is a software which is used to do manual testing specifically for mobile user interface. It consists of various mobile devices screen resolutions which allows us to test the user interface of mobile view with various screen virtual devices and Provides real device user interface experiences. Developers can also use this to pre-validate their developed code to test for all versions.
 
 For example, it provides the exact screen resolution of iPhone, Samsung, iPad, Pixel and so on depends on requirements needed.
-Provides good test environment to find the defects.
+Provides a good test environment to find the defects.
 It allows supports some tablet screen resolutions like iPad.
 Characteristics of Manual Testing
 Human Performance: Human testers who use the product the same way as end users conduct manual testing. Manually carrying out test cases, testers provide input and watch the result to find errors.
