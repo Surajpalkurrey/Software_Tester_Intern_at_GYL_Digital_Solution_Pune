@@ -20,33 +20,75 @@ Defect Fix and Re-verification: When bugs are fixed, again execute the failing t
 Tools Used for Manual Testing
 Here are the Tools Used for Manual Testing in the proper descriptive form.
 
-1. **Test Link:** It is a web-based test management system that facilitates software quality assurance, and it is one of the most user-friendly programs. It is available through a browser connected to the internet. This manual software testing tool support various programming language.
+**1. TestLink**:
+It is a web-based test management system that facilitates software quality assurance.
 
-Support cross-browser testing across different platform.
-Facility to record and playback functionality for test automation.
+One of the most user-friendly programs, accessible via an internet-connected browser.
 
-2. **Bugzilla:** It is a web-based bug-tracking tool that is developed by Mozilla. It has a simple bug search that searches the complete text of the bug. It supports various OS like Mac, Windows, and Linux.
+Supports various programming languages.
 
-Facility to list the software bug in different format.
-Bugzilla has advance searching facility.
+Enables cross-browser testing across different platforms.
 
-3. **Jira:** It is a manual testing tool that helps teams assign, track, report, and manage work and bring teams together. This tool is also compatible with agile software projects also. It have an option to track and manage bugs and defects and prioritize and assign tasks.
+Provides functionality to record and playback for test automation.
 
-Collaborate with team members.
-Easily generate reports and track progress.
+**2. Bugzilla**:
+A web-based bug-tracking tool developed by Mozilla.
 
-4. **LoadRunner**: It is one of the most widely used performance testing tools. The primary purpose of this tool is to categorise the most prevalent causes of performance problems. It simulates real-world user behavior and load and identifies bottlenecks and performance issues.
+Features a simple bug search that searches the complete text of bugs.
 
-Scalable architecture for large-scale testing.
-Provides detailed reports and analysis.
+Supports various operating systems including Mac, Windows, and Linux.
 
-5. **Apache JMeter:** It is an open-source load testing tool for analyzing and measuring the performance of a variety of services. It has an easy-to-use user interface. It simulates various types of load (web, database, etc.). It have Highly configurable and extensible, and integrates with various plugins for additional features.
+Allows listing software bugs in different formats.
 
-Provides comprehensive performance reports and graphs.
+Offers advanced searching capabilities.
 
+**3. Jira**:
+A manual testing tool used for assigning, tracking, reporting, and managing work.
 
-6. **Perfecto:** It is a software which is used to do manual testing specifically for mobile user interface. It consists of various mobile devices screen resolutions which allows us to test the user interface of mobile view with various screen virtual devices and Provides real device user interface experiences. Developers can also use this to pre-validate their developed code to test for all versions.
+Compatible with agile software projects.
 
+Provides options to track and manage bugs and defects.
+
+Helps prioritize and assign tasks.
+
+Facilitates collaboration with team members.
+
+Easily generates reports and tracks project progress.
+
+**4. LoadRunner**:
+A widely used performance testing tool.
+
+Primarily used to identify common causes of performance issues.
+
+Simulates real-world user behavior and load.
+
+Detects system bottlenecks and performance limitations.
+
+Features scalable architecture suitable for large-scale testing.
+
+Provides detailed performance reports and analytics.
+
+**5. Apache JMeter**:
+An open-source load testing tool for performance analysis of various services.
+
+Offers a user-friendly interface.
+
+Simulates various types of loads (e.g., web, database).
+
+Highly configurable and extensible.
+
+Supports integration with multiple plugins for added functionality.
+
+Delivers comprehensive performance reports and graphical representations.
+
+**6. Perfecto**:
+A manual testing tool designed specifically for mobile user interface testing.
+
+Offers access to various mobile device screen resolutions through virtual devices.
+
+Provides a real-device user experience for UI testing.
+
+Developers can pre-validate their code across different mobile versions.
 For example, it provides the exact screen resolution of iPhone, Samsung, iPad, Pixel and so on depends on requirements needed.
 Provides a good test environment to find the defects.
 It allows supports some tablet screen resolutions like iPad.
